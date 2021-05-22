@@ -137,7 +137,7 @@
     "nodemon": "^1.18.10",
     "normalize.css": "^8.0.0",
     "nyc": "^13.3.0",
-    "postcss": "^7.0.14",
+    "postcss": "^8.2.10",
     "postcss-extend-rule": "^2.0.0",
     "postcss-import": "^12.0.0",
     "postcss-loader": "^3.0.0",
